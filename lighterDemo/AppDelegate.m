@@ -17,8 +17,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    NSLog(@"master");
-    
+    NSLog(@"zhou");
+    NSLog(@"wen");
     return YES;
 }
 
