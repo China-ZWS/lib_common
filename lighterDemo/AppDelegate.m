@@ -21,6 +21,7 @@
     NSLog(@"1");
     NSLog(@"1");
     NSLog(@"zhou");
+    NSLog(@"zhou");
 
     return YES;
 }
