@@ -18,7 +18,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"zhou");
-        
+    NSLog(@"AppDelegate");
+    NSLog(@"zhou");
+
 
     return YES;
 }
